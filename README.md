@@ -1,4 +1,7 @@
-# Juice Tracker
+# juice-shop-api-exploration
+Initial idea invalidated after maintainer feedback; documenting API/YAML exploration and learnings.
+
+## Juice Tracker
 
 A command-line tool to view and filter challenges from [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
 
